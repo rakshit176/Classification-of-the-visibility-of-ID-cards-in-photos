@@ -1,7 +1,7 @@
 ***
 
 
-# Classifying the visibility of ID cards in photos
+# Classification of the visibility of ID cards in photos
 
 The folder images inside data contains several different types of ID documents taken in different conditions and backgrounds. The goal is to use the images stored in this folder and to design an algorithm that identifies the visibility of the card on the photo (FULL_VISIBILITY, PARTIAL_VISIBILITY, NO_VISIBILITY).
 
